@@ -13,4 +13,3 @@ if (isEven(num)):
 else:
     print("Odd")
 
-
